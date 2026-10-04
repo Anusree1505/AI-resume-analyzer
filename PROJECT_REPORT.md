@@ -103,4 +103,4 @@ Sentence Transformers, spaCy, job-description upload, controlled LLM feedback, F
 The system demonstrates a complete beginner-to-intermediate NLP/ML workflow: document parsing, preprocessing, skill extraction, vectorization, similarity calculation, recommendation, gap analysis and dashboard visualization. It is suitable as an academic project while keeping hiring-related decisions outside the scope of the application.
 
 ## GitHub Repository
-
+https://github.com/Anusree1505/AI-resume-analyzer
