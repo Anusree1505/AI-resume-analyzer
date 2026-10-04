@@ -147,5 +147,5 @@ For Docker or Render, the same Python dependencies can be used; a production Doc
 
 ## GitHub Repository
 
-This project is available at:
+This project is available at:https://github.com/Anusree1505/AI-resume-analyzer
 
